@@ -1,0 +1,32 @@
+.heading{
+    font-family: 'Rubik', sans-serif;
+}
+.mission{
+
+}
+.footer{
+    font-family: 'Yellowtail', cursive;
+}
+.halfwidth{
+    width: 50%;
+}
+.halfwidth img{
+    width: 50%;
+}
+.aim{
+    width: 33%;
+}
+.aim img{
+    width: 50%;
+}
+.flex{
+    display: flex;
+}
+.ending{
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
+body{
+    margin: 0;
+}
