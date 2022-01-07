@@ -1,17 +1,22 @@
 .heading{
     font-family: 'Rubik', sans-serif;
+    font-size: 40px;
 }
 .mission{
-
+    text-align: center;
+    font-size: 35px;
 }
 .footer{
     font-family: 'Yellowtail', cursive;
 }
 .halfwidth{
-    width: 50%;
+    width: 35%;
 }
 .halfwidth img{
     width: 50%;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 300px;
 }
 .aim{
     width: 33%;
@@ -30,3 +35,22 @@
 body{
     margin: 0;
 }
+.focus{
+    font-size: 25px;
+    border-left:tomato solid 3px;
+    padding: 0px 10px;
+}
+.intro{
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 100px;
+}
+.submit-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-align: center;
+}
+    
