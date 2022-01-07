@@ -70,4 +70,16 @@ body{
     padding: 15px;
     margin-left: 30px;
 }
+#develop{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 10%;
+}
+#community{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 1260px 0px;
+    background-size: 7%;
+}
     
